@@ -6,8 +6,8 @@
 - **来源**: The Verge
 - **来源标题**: Epic Games Launcher is coming to SteamOS
 - **来源链接**: https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos
-- **原始发布时间**: The Verge 订阅源时间 2026-11-08T15:52:05−05:00，即 2026-11-08T20:52:05Z
-- **上海时间**: 2026-11-09 04:52（20:52 UTC 加 8 小时）
+- **原始发布时间**: 2026-11-08 15:52 EST（订阅源对应 20:52 UTC）
+- **上海时间**: 2026-11-09 04:52
 - **窗口**: 24小时内
 
 ## 摘要

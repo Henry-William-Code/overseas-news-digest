@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: Kyle Larson joins Nascar’s all-time greats with third Cup title in six years
 - **来源链接**: https://www.theguardian.com/sport/2026/nov/08/kyle-larson-nascar-cup-series-championship-homestead
-- **原始发布时间**: 页面首发 Sun 8 Nov 2026 19.23 EST；元数据 2026-11-09T00:23:31Z
-- **上海时间**: 2026-11-09 08:23（19:23 EST 为次日 00:23 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 19:23 EST
+- **上海时间**: 2026-11-09 08:23
 - **窗口**: 24小时内
 
 ## 摘要

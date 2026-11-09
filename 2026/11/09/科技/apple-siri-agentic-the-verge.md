@@ -6,8 +6,8 @@
 - **来源**: The Verge
 - **来源标题**: Apple is racing to make Siri more agentic
 - **来源链接**: https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
-- **原始发布时间**: 页面为 Nov 8, 2026, 7:18 PM UTC；元数据 2026-11-08T19:18:19Z
-- **上海时间**: 2026-11-09 03:18（19:18 UTC 加 8 小时；到秒为 03:18:19）
+- **原始发布时间**: 2026-11-08 19:18 UTC（页面为 7:18 PM UTC）
+- **上海时间**: 2026-11-09 03:18
 - **窗口**: 24小时内
 
 ## 摘要

@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: New drug could be cure for common cause of high blood pressure
 - **来源链接**: https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat
-- **原始发布时间**: 页面为 Sun 8 Nov 2026 08.53 EST（UTC−5）；元数据 2026-11-08T13:53:41Z
-- **上海时间**: 2026-11-08 21:53（08:53 EST 加 5 小时为 13:53 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 08:53 EST
+- **上海时间**: 2026-11-08 21:53
 - **窗口**: 24小时内
 
 ## 摘要

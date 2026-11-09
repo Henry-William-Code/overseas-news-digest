@@ -6,8 +6,8 @@
 - **来源**: BBC
 - **来源标题**: Hundreds of seagrass shoots found in Cornwall estuary
 - **来源链接**: https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo
-- **原始发布时间**: 可见日期为 8 November 2026。结构化时间 2026-11-08T07:06:13Z
-- **上海时间**: 2026-11-08 15:06（07:06 UTC 加 8 小时）
+- **原始发布时间**: 2026-11-08 07:06 UTC（页面可见日期为 8 November 2026）
+- **上海时间**: 2026-11-08 15:06
 - **窗口**: 24小时内
 
 ## 摘要

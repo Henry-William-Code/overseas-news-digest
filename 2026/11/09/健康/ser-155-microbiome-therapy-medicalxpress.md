@@ -6,9 +6,9 @@
 - **来源**: Medical Xpress（稿件注明来自 City of Hope）
 - **来源标题**: Microbiome therapy shows promise for preventing deadly bloodstream infections in early trial
 - **来源链接**: https://medicalxpress.com/news/2026-11-microbiome-therapy-deadly-bloodstream-infections.html
-- **原始发布时间**: 页面只标注 November 8, 2026，没有钟点
-- **上海时间**: 不写时分。页面使用美国东部日期；该日 0 点（UTC−5）对应上海 2026-11-08 13:00，仍落在本次 24 小时内
-- **窗口**: 24小时内（仅日期）
+- **原始发布时间**: 2026-11-08（来源仅日期，时区/时分未注明）
+- **上海时间**: 2026-11-08（来源仅日期，时区/时分未注明）
+- **窗口**: 48小时内候选（仅日期，不能确认是否落在最近 24 小时）
 
 ## 摘要
 

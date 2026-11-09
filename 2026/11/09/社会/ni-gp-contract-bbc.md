@@ -6,8 +6,8 @@
 - **来源**: BBC
 - **来源标题**: New contract will make it 'easier' to get GP appointments, says health minister
 - **来源链接**: https://www.bbc.co.uk/news/articles/cmd7q1w8q0e3o
-- **原始发布时间**: 结构化发布时间 2026-11-09T00:00:27Z。抓取页面时可见的是相对时间，不是钟点
-- **上海时间**: 2026-11-09 08:00（00:00 UTC 加 8 小时）
+- **原始发布时间**: 2026-11-09 00:00 UTC
+- **上海时间**: 2026-11-09 08:00
 - **窗口**: 24小时内
 
 ## 摘要

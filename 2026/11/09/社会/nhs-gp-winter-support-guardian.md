@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: GPs to offer 300,000 patients extra support to ease winter strain on NHS
 - **来源链接**: https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england
-- **原始发布时间**: 页面首发 Sun 8 Nov 2026 17.30 EST；元数据 2026-11-08T22:30:51Z
-- **上海时间**: 2026-11-09 06:30（17:30 EST 为 22:30 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 17:30 EST
+- **上海时间**: 2026-11-09 06:30
 - **窗口**: 24小时内
 
 ## 摘要

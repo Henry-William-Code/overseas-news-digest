@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: NFL roundup: Cowboys stun Colts with late comeback as Bengals roll in Madrid
 - **来源链接**: https://www.theguardian.com/sport/2026/nov/08/nfl-roundup-sunday-football-scores-week-9
-- **原始发布时间**: 页面为 Sun 8 Nov 2026 13.21 EST；元数据 2026-11-08T18:21:34Z。最后修改 17.17 EST（2026-11-08T22:17:41Z）
-- **上海时间**: 首发 2026-11-09 02:21；最后修改对应 2026-11-09 06:17
+- **原始发布时间**: 2026-11-08 13:21 EST（页面另标最后修改 17:17 EST）
+- **上海时间**: 2026-11-09 02:21（最后修改对应 2026-11-09 06:17）
 - **窗口**: 24小时内
 
 ## 摘要

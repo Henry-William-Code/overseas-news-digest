@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: Only 6.4% of stroke survivors receive enough therapy, finds ‘damning’ report
 - **来源链接**: https://www.theguardian.com/society/2026/nov/09/few-stroke-survivors-receive-enough-therapy-damning-report
-- **原始发布时间**: 页面为 Sun 8 Nov 2026 19.01 EST；元数据 2026-11-09T00:01:53Z
-- **上海时间**: 2026-11-09 08:01（19:01 EST 为次日 00:01 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 19:01 EST
+- **上海时间**: 2026-11-09 08:01
 - **窗口**: 24小时内
 
 ## 摘要

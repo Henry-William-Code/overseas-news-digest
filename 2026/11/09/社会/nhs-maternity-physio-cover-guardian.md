@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: Half of NHS trusts in England lack funds earmarked to cover maternity leave
 - **来源链接**: https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave
-- **原始发布时间**: 页面首发 Sun 8 Nov 2026 12.42 EST；元数据 2026-11-08T17:42:39Z
-- **上海时间**: 2026-11-09 01:42（12:42 EST 为 17:42 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 12:42 EST
+- **上海时间**: 2026-11-09 01:42
 - **窗口**: 24小时内
 
 ## 摘要

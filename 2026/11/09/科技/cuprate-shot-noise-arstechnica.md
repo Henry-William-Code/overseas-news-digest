@@ -6,8 +6,8 @@
 - **来源**: Ars Technica
 - **来源标题**: Physicists listened to electrical noise to crack a superconductor mystery
 - **来源链接**: https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/
-- **原始发布时间**: 页面署 Nov 8, 2026 7:15 am；元数据 2026-11-08T12:15:31Z，与美东 07:15 一致
-- **上海时间**: 2026-11-08 20:15（12:15 UTC 加 8 小时）
+- **原始发布时间**: 2026-11-08 07:15 EST（页面署 7:15 am，与 12:15 UTC 一致）
+- **上海时间**: 2026-11-08 20:15
 - **窗口**: 24小时内
 
 ## 摘要

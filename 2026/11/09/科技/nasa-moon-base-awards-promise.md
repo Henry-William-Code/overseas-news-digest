@@ -6,9 +6,9 @@
 - **来源**: NASA
 - **来源标题**: NASA Awards Moon Base Transportation, Technology, Science Projects
 - **来源链接**: https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/
-- **原始发布时间**: NASA RSS 为 2026-11-07T22:47:03Z；稿件称消息在周六公布
-- **上海时间**: 2026-11-08 06:47（22:47 UTC 加 8 小时）。早于本次 24 小时，仍在 48 小时内
-- **窗口**: 48小时内
+- **原始发布时间**: 2026-11-07（页面字段为 Last Updated，仅日期，未见单独首发钟点）
+- **上海时间**: 不换算时分
+- **窗口**: 页面仅日期，不把 Last Updated 当作首发时间
 
 ## 摘要
 

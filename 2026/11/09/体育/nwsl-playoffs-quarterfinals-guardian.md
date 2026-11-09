@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: NWSL playoffs: Rodman’s brace leads Spirit rout while Gotham sneak into semi-finals
 - **来源链接**: https://www.theguardian.com/football/2026/nov/08/nwsl-playoffs-roundup-gotham-reign-spirit-thorns
-- **原始发布时间**: 页面时间与元数据 2026-11-08T23:15:39Z 对应，可见钟点为 Sun 8 Nov 2026 18.15 EST
-- **上海时间**: 2026-11-09 07:15（18:15 EST 为 23:15 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 18:15 EST
+- **上海时间**: 2026-11-09 07:15
 - **窗口**: 24小时内
 
 ## 摘要

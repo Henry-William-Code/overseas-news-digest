@@ -6,9 +6,9 @@
 - **来源**: NASA
 - **来源标题**: NASA Announces $1 Million to Students for Moon Base Challenge
 - **来源链接**: https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/
-- **原始发布时间**: 新闻稿页写 Last Updated Nov 08, 2026；NASA RSS 发布时间为 2026-11-08T15:26:38Z
-- **上海时间**: 2026-11-08 23:26（15:26 UTC 加 8 小时）
-- **窗口**: 24小时内
+- **原始发布时间**: 2026-11-08（页面字段为 Last Updated，仅日期，未见单独首发钟点）
+- **上海时间**: 不换算时分
+- **窗口**: 页面仅日期，不把 Last Updated 当作首发时间
 
 ## 摘要
 

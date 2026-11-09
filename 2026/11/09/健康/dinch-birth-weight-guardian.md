@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds
 - **来源链接**: https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study
-- **原始发布时间**: 页面为 Sat 7 Nov 2026 07.00 EST；元数据 2026-11-07T12:00:13Z
-- **上海时间**: 2026-11-07 20:00（07:00 EST 为 12:00 UTC，再加 8 小时）。早于本次 24 小时，仍在 48 小时内
+- **原始发布时间**: 2026-11-07 07:00 EST
+- **上海时间**: 2026-11-07 20:00
 - **窗口**: 48小时内
 
 ## 摘要

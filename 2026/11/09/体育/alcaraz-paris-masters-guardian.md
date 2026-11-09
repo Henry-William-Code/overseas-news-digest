@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: Carlos Alcaraz beats error-prone Ben Shelton to win Paris Masters
 - **来源链接**: https://www.theguardian.com/sport/2026/nov/08/carlos-alcaraz-ben-shelton-win-paris-masters-final
-- **原始发布时间**: 页面首发 Sun 8 Nov 2026 12.31 EST；元数据 2026-11-08T17:31:01Z
-- **上海时间**: 2026-11-09 01:31（12:31 EST 为 17:31 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 12:31 EST
+- **上海时间**: 2026-11-09 01:31
 - **窗口**: 24小时内
 
 ## 摘要

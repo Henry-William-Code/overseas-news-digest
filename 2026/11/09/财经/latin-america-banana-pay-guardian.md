@@ -6,8 +6,8 @@
 - **来源**: The Guardian
 - **来源标题**: Banana producers in Latin America want better pay to cope with effects of climate crisis
 - **来源链接**: https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis
-- **原始发布时间**: 页面为 Sun 8 Nov 2026 02.00 EST；元数据 2026-11-08T07:00:34Z
-- **上海时间**: 2026-11-08 15:00（02:00 EST 为 07:00 UTC，再加 8 小时）
+- **原始发布时间**: 2026-11-08 02:00 EST
+- **上海时间**: 2026-11-08 15:00
 - **窗口**: 24小时内
 
 ## 摘要
