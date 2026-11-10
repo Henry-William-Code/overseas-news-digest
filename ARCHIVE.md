@@ -12,9 +12,10 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 ## 2026-11-10
 
-- 独立新闻：18 条
-- 来源：6 个
-- 更新时间：上海时间 2026-11-10 09:33
+- 独立新闻：30 条
+- 来源：12 个（BBC 与 BBC Sport 计为一家）
+- AI：10 条
+- 更新时间：上海时间 2026-11-10 18:35
 - [首页](README.md)
 - [当日日报](2026/11/10/日报.md)
 
@@ -23,6 +24,10 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 #### AI
 
 - [Anthropic 推出 Claude Fable 5.2，Mythos 5.2 先对核定机构开放](2026/11/10/AI/anthropic-claude-fable-mythos-5-2-the-verge.md) · 24小时内
+- [Meta 发布轻量模型 Muse Ember，面向代理日常高并发执行](2026/11/10/AI/meta-muse-ember.md) · 24小时内
+- [澳大利亚宣布将立法强制 AI 安全标准，并拟设专门监管机构](2026/11/10/AI/australia-ai-safety-standards-pm.md) · 24小时内
+- [OpenAI 发布教育报告：学生已普遍用 AI 做作业，但指导明显落后](2026/11/10/AI/openai-education-guidance-gap.md) · 24小时内
+- [Medium 推出写作应用 TK，把 AI 助手直接做进编辑器](2026/11/10/AI/medium-tk-writing-app-techcrunch.md) · 24小时内
 - [ChatGPT Enterprise 进入 AWS Marketplace](2026/11/10/AI/chatgpt-enterprise-aws-marketplace-openai.md) · 24小时内
 - [OpenAI 在研究环境部署 Control Room，用来叫停模型任务](2026/11/10/AI/openai-control-room.md) · 24小时内
 - [Logic Pro 可以单次购买 49.99 美元的 Apple Intelligence 用量包](2026/11/10/AI/apple-intelligence-usage-packs-the-verge.md) · 24小时内
@@ -31,12 +36,21 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 #### 科技
 
+- [谷歌扩充第八代 TPU：新增 8tx 保密推理与 8i Max 大上下文系统](2026/11/10/科技/google-tpu-8tx-8i-max.md) · 24小时内
+- [GitHub 密钥扫描开始检查 Actions 工作流日志（公开预览）](2026/11/10/科技/github-secret-scanning-actions-logs.md) · 48小时内
+- [研究用电流噪声探测铜氧化物超导体，认为赝能隙与电子配对有关](2026/11/10/科技/superconductor-shot-noise-ars.md) · 48小时内
 - [ESCAPADE 两艘探测器完成带动力的地球飞越，正在前往火星](2026/11/10/科技/nasa-escapade-earth-flyby.md) · 24小时内
 - [钱德拉望远镜称找到一颗巨恒星反复爆发的触发来源](2026/11/10/科技/nasa-chandra-star-outbursts.md) · 24小时内
 - [SpaceX 发射副总裁称公司已是基础设施公司，猎鹰 9 走向退役](2026/11/10/科技/spacex-infrastructure-company-arstechnica.md) · 24小时内
 
+#### 搞笑
+
+- [开发者用讽刺脚本 Ram-Altman 拿电脑空闲内存开萨姆·奥特曼的玩笑](2026/11/10/搞笑/ram-altman-memory-parody-ars.md) · 24小时内
+
 #### 健康
 
+- [美国 FDA 要求所有 GLP-1 类药品更新标签，提示可能增加罕见眼病风险](2026/11/10/健康/fda-glp1-naion-label.md) · 24小时内
+- [泽西岛水务初步试验：一处站点 PFAS 浓度约降 30%，完整结论仍需一年](2026/11/10/健康/jersey-pfas-trial-bbc.md) · 24小时内
 - [僵人综合征的 CAR-T 试验出现早期改善，尚不知能否维持](2026/11/10/健康/stiff-person-car-t-guardian.md) · 24小时内
 
 #### 社会
@@ -56,6 +70,8 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 #### 体育
 
+- [WTA 年终总决赛小组赛：萨巴伦卡苦胜穆霍娃，米拉·安德烈耶娃直落两盘取胜](2026/11/10/体育/wta-finals-sabalenka-andreeva-bbc.md) · 24小时内
+- [NFL 第 9 周：比尔 23-6 击败维京人，与 49 人并列联盟最佳 7 胜 1 负](2026/11/10/体育/nfl-week9-bills-vikings-bbc.md) · 24小时内
 - [巴西大奖赛：梅赛德斯锁定车队年度冠军](2026/11/10/体育/f1-brazil-mercedes-constructors-arstechnica.md) · 24小时内
 
 #### 其他
