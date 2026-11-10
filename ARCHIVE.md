@@ -8,7 +8,59 @@
 
 AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）、Cursor、Grok Bot、DeepSeek，以及同级别的助手和编程工具。单篇路径是 `YYYY/MM/DD/AI/<slug>.md`。没有通过审核的稿件不补进这一栏。
 
-2026-11-09 这一期没有新的已审核 AI 稿。下一期按此覆盖。
+2026-11-09 这一期没有新的已审核 AI 稿。自 2026-11-10 起，通过审核的 AI 产品与工具稿放在 AI 栏。
+
+## 2026-11-10
+
+- 独立新闻：18 条
+- 来源：6 个
+- 更新时间：上海时间 2026-11-10 09:33
+- [首页](README.md)
+- [当日日报](2026/11/10/日报.md)
+
+### 单篇
+
+#### AI
+
+- [Anthropic 推出 Claude Fable 5.2，Mythos 5.2 先对核定机构开放](2026/11/10/AI/anthropic-claude-fable-mythos-5-2-the-verge.md) · 24小时内
+- [ChatGPT Enterprise 进入 AWS Marketplace](2026/11/10/AI/chatgpt-enterprise-aws-marketplace-openai.md) · 24小时内
+- [OpenAI 在研究环境部署 Control Room，用来叫停模型任务](2026/11/10/AI/openai-control-room.md) · 24小时内
+- [Logic Pro 可以单次购买 49.99 美元的 Apple Intelligence 用量包](2026/11/10/AI/apple-intelligence-usage-packs-the-verge.md) · 24小时内
+- [Instagram 在美国上线可用提示词做滤镜的 Effect Builder](2026/11/10/AI/instagram-effect-builder-the-verge.md) · 24小时内
+- [Claude Code 的“不再询问”可能把密钥写进后来被公开的设置文件](2026/11/10/AI/claude-code-settings-secrets-arstechnica.md) · 24小时内
+
+#### 科技
+
+- [ESCAPADE 两艘探测器完成带动力的地球飞越，正在前往火星](2026/11/10/科技/nasa-escapade-earth-flyby.md) · 24小时内
+- [钱德拉望远镜称找到一颗巨恒星反复爆发的触发来源](2026/11/10/科技/nasa-chandra-star-outbursts.md) · 24小时内
+- [SpaceX 发射副总裁称公司已是基础设施公司，猎鹰 9 走向退役](2026/11/10/科技/spacex-infrastructure-company-arstechnica.md) · 24小时内
+
+#### 健康
+
+- [僵人综合征的 CAR-T 试验出现早期改善，尚不知能否维持](2026/11/10/健康/stiff-person-car-t-guardian.md) · 24小时内
+
+#### 社会
+
+- [北爱尔兰学校午餐再涨价，免费午餐学生不受影响](2026/11/10/社会/ni-school-dinner-prices-bbc.md) · 24小时内
+
+#### 财经
+
+- [Poundland 已申请指定管理人，BBC 称约 5000 万英镑被冻结](2026/11/10/财经/poundland-stock-freeze-bbc.md) · 24小时内
+
+#### 娱乐
+
+- [詹姆斯·冈恩和彼得·萨弗兰卸任 DC 宇宙联席首席执行官](2026/11/10/娱乐/dcu-gunn-safran-step-down-arstechnica.md) · 24小时内
+- [电视家居节目主持人汤米·沃尔什去世，享年 69 岁](2026/11/10/娱乐/tommy-walsh-dies-bbc.md) · 24小时内
+- [玛雅·贾玛宣布不再主持 Love Island](2026/11/10/娱乐/maya-jama-leaves-love-island-bbc.md) · 48小时内
+- [玛丽亚·凯莉确定 2027 年 6 月 27 日担任 Powderham 音乐节主打](2026/11/10/娱乐/mariah-carey-powderham-2027-bbc.md) · 24小时内
+
+#### 体育
+
+- [巴西大奖赛：梅赛德斯锁定车队年度冠军](2026/11/10/体育/f1-brazil-mercedes-constructors-arstechnica.md) · 24小时内
+
+#### 其他
+
+- [Berkeley Earth 称有 95% 的把握，2026 年会打破最热年纪录](2026/11/10/其他/berkeley-earth-2026-heat-bbc.md) · 24小时内
 
 ## 2026-11-09
 
