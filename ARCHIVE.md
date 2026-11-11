@@ -10,6 +10,68 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 2026-11-09 这一期没有新的已审核 AI 稿。自 2026-11-10 起，通过审核的 AI 产品与工具稿放在 AI 栏。
 
+## 2026-11-11
+
+- 独立新闻：24 条
+- 来源：18 个（BBC News 各条计为一家；美国 FDA 两条计为一家；谷歌官方博客与 DeepMind 博客计为一家「谷歌」）
+- AI：5 条
+- 更新时间：上海时间 2026-11-11 10:06
+- [首页](README.md)
+- [当日日报](2026/11/11/日报.md)
+
+### 单篇
+
+#### AI
+
+- [OpenAI 推出 ChatGPT 商家主页与美国电商商务代理（测试版）](2026/11/11/AI/openai-chatgpt-businesses-agents.md) · 24小时内
+- [Cursor 让 Projects 支持多人协作，团队可与智能体共享工作区（测试版）](2026/11/11/AI/cursor-projects-multiplayer.md) · 24小时内
+- [谷歌向开发者与 Ultra 用户开放 Gemini 4 Carbon，并预览 Antigravity 的 swarm 功能](2026/11/11/AI/gemini-4-carbon-availability.md) · 24小时内
+- [DeepMind 发布 Gemini Robotics 2.5，奔驰工厂零件分拣试点成功率约 96%](2026/11/11/AI/gemini-robotics-2-5.md) · 24小时内
+- [Anthropic 上线 Claude 白板、表格与数据工具，会议功能仍为即将推出](2026/11/11/AI/claude-sheets-whiteboards-data.md) · 24小时内
+
+#### 科技
+
+- [谷歌发布 11 月 Pixel 功能更新，Pixel Tag 于 11 月 11 日开售](2026/11/11/科技/pixel-november-2026-drop.md) · 24小时内
+- [美国宇航局研究：LISA 引力波或可揭示双白矮星周围的新行星](2026/11/11/科技/nasa-lisa-exoplanet-gravitational-waves.md) · 24小时内
+- [Ring 发布室内安防无人机与商用巡逻机器人，发货要等到年底之后](2026/11/11/科技/ring-robotics-drone-rover.md) · 24小时内
+- [AMD 宣布基于 Zen 6 的第六代 EPYC 服务器处理器已开始出货](2026/11/11/科技/amd-6th-gen-epyc-zen6-ga.md) · 24小时内
+- [Apple TV 将于 11 月 13 日上线手语传译功能](2026/11/11/科技/apple-tv-sign-language.md) · 24小时内
+- [Meta 介绍生产级 GPU 编译扩展 TLX，用于推荐模型与大模型预训练](2026/11/11/科技/meta-tlx-gpu-compiler.md) · 24小时内
+
+#### 搞笑
+
+- [英国德文郡一家救助中心一次性接收 110 只猫](2026/11/11/搞笑/devon-hectors-house-110-cats-surrender.md) · 24小时内
+
+#### 财经
+
+- [美国 10 月 CPI 环比上涨 0.4%，多数同比数据因去年停摆暂缺](2026/11/11/财经/bls-cpi-october-2026-release.md) · 24小时内
+- [中国前 10 个月贸易顺差升至 1.04 万亿美元](2026/11/11/财经/china-jan-oct-2026-trade-surplus-1-trillion.md) · 24小时内
+- [澳航将外包约 850 个本地岗位，多数工作转往印度](2026/11/11/财经/qantas-850-jobs-accenture-india-outsourcing.md) · 24小时内
+- [加州选民否决针对亿万富豪的一次性财富税提案](2026/11/11/财经/california-prop-40-billionaire-wealth-tax-rejected.md) · 24小时内
+
+#### 娱乐
+
+- [81 岁作家哈里森凭《万物的终结》获布克奖，成最年长得主](2026/11/11/娱乐/booker-prize-2026-m-john-harrison-end-of-everything.md) · 48小时内
+
+#### 体育
+
+- [WTA 年终总决赛小组赛：诺斯科娃直落两盘击败高芙，率先晋级半决赛](2026/11/11/体育/wta-finals-2026-group1-noskova-gauff-pegula-kostyuk.md) · 24小时内
+- [女足欧冠联赛阶段第四轮：曼城 4-1 逆转国际米兰，拜仁、皇马取胜](2026/11/11/体育/uwcl-2026-27-league-phase-md4-tuesday.md) · 24小时内
+
+#### 社会
+
+- [康沃尔公爵领地拟十年出售约两成地产，租户担心买不起或迁离](2026/11/11/社会/duchy-of-cornwall-farm-sale-plan-tenants.md) · 24小时内
+
+#### 健康
+
+- [美国 FDA 批准首个 FXIa 抑制剂 Sunharbo，用于部分成人卒中后预防](2026/11/11/健康/fda-approves-sunharbo-asundexian-secondary-stroke-prevention.md) · 48小时内
+- [FDA 批准 pimicotinib 用于部分无法安全手术的腱鞘巨细胞瘤成人患者](2026/11/11/健康/fda-approves-pimicotinib-pimjetmi-tgct.md) · 24小时内
+- [医药可及性机构警告：减肥药热潮或分散对胰岛素供应的关注](2026/11/11/健康/access-to-medicine-foundation-insulin-glp1-supply-warning.md) · 24小时内
+
+#### 其他
+
+- [加州通过创纪录 84 亿美元免疫学研究债券提案](2026/11/11/其他/california-proposition-38-8-4-billion-immunology-research.md) · 24小时内
+
 ## 2026-11-10
 
 - 独立新闻：30 条
