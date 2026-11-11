@@ -1,10 +1,10 @@
 # 2026年11月11日 · 海外资讯日报
 
-上海时间 **2026-11-11 10:06** 更新。独立新闻 **24** 条，**18** 个来源，其中 AI **5** 条。仅展示审核通过内容。
+上海时间 **2026-11-11 18:35** 更新。独立新闻 **39** 条，**25** 个来源，其中 AI **12** 条。仅展示审核通过内容。
 
-这一期是 2026 年 11 月 11 日早间已审核稿。DeepSeek 与 xAI / Grok Bot 官方新闻室在本期时间窗内没有新稿。
+早间 24 条全部保留。晚间再写入已审核的 15 条，其中 AI 7 条。DeepSeek 与 xAI / Grok Bot 官方新闻室在本窗口内仍没有新的官方稿。
 
-来源按不重复出口计算：BBC News 各条计为一家，美国 FDA 两条计为一家，谷歌官方博客与 DeepMind 博客计为一家「谷歌」。
+来源按不重复出口计算：BBC News 各条计为一家，美国 FDA 两条计为一家，谷歌官方博客、DeepMind 博客与 Google Workspace Updates 计为一家「谷歌」。晚间新计入 GitHub Blog、Ars Technica、NVIDIA Blog、Microsoft DirectX Developer Blog、The Verge、CoreWeave 和 The Mainichi。Anthropic、OpenAI 与 BBC News 早间已经计入。
 
 [当日完整版](2026/11/11/日报.md) · [往期索引](ARCHIVE.md)
 
@@ -12,11 +12,26 @@
 
 ## 今日重点
 
-五条展开。下面各栏是短读，重点条目在栏里只留一句。
+五条展开，覆盖全天。下面各栏是短读，重点条目在栏里只留一句。
+
+<a id="hl-fable"></a>
+
+### 1. Anthropic 发布 Claude Fable 5.2，并向受审核机构提供 Mythos 5.2
+
+Anthropic 宣布推出 Claude Fable 5.2，并同步推出面向受审核机构的 Claude Mythos 5.2。公司称两者是同一底层模型：Fable 带有更强的网络安全与生物学防护，向所有用户开放；在网络安全或生物医学研究中有正当用途的机构，可通过已扩大的生命科学与网络验证计划申请 Mythos。官方建议大多数编程与知识工作仍先使用 Claude Opus 5.5，只在任务足够难时再换到 Fable 或 Mythos。
+
+公司称，相比 5.1，新模型在编程、推理和视觉等方面有提升，生成速度最高约快 30%，定价为每百万输入 token 8 美元、每百万输出 token 40 美元；可选 Fast mode，官方称最高可将 token 生成加快约 2.5 倍，价格为 16 / 80 美元。Fable 5.2 已在 Anthropic 自有平台以及 Amazon Web Services、Google Cloud、Microsoft Azure 上线，开发者模型名为 `claude-fable-5-2`。文中列举的正式化费马大定理、硬件原型和蛋白质壳体结构预测等结果，均属公司自身陈述，尚未见独立复现。
+
+为何关注：这是早间已报道的 Claude 表格/白板之外，Anthropic 在同一时段的主力高阶模型更新，也会影响 Claude Code 及云厂商上的模型选择。
+
+发布：上海时间2026-11-09（页面仅有日期，时区未知）｜[Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2)  
+[单篇档案](2026/11/11/AI/anthropic-claude-fable-mythos-5-2.md)
+
+---
 
 <a id="hl-carbon"></a>
 
-### 1. 谷歌向开发者与 Ultra 用户开放 Gemini 4 Carbon，并预览 Antigravity 的 swarm 功能
+### 2. 谷歌向开发者与 Ultra 用户开放 Gemini 4 Carbon，并预览 Antigravity 的 swarm 功能
 
 谷歌宣布 Gemini 4 Carbon 即日起向付费开发者和企业开放，并开始向所有 Google AI Ultra 订阅用户在 Antigravity、Gemini 应用和搜索 AI 模式中推送。官方称 Carbon 是其在网络安全和长周期智能体工作流上最强的模型，更适合复杂的多步编码、调试和开放式科研；多数软件工程与知识工作仍建议使用近日发布的 Gemini 4 Argon。
 
@@ -33,9 +48,59 @@ Carbon 在 Google AI Studio 和 Gemini for business 的 API 中提供，导入�
 
 ---
 
-<a id="hl-chatgpt"></a>
+<a id="hl-ipo"></a>
 
-### 2. OpenAI 推出 ChatGPT 商家主页与美国电商商务代理（测试版）
+### 3. Anthropic 启动拟议 IPO 路演，拟定发行价 70–78 美元、申请交易代码 ANT
+
+Anthropic, PBC 宣布，已为拟议中的 A 类普通股首次公开发行启动路演。拟议发行规模为 8.25 亿股，其中 801,351,354 股由公司发行，23,648,646 股由部分现有股东出售，公司不会从售股股东部分获得所得。公司还预计授予承销商 30 天期权，可额外购买最多 123,750,000 股。
+
+拟定发行价区间为每股 70.00 至 78.00 美元。公司已申请在纳斯达克全球精选市场上市，交易代码为 ANT。官方写明，相关登记声明已提交美国证券交易委员会，但尚未生效；在生效前不得出售这些证券，亦不得接受买盘。这是路演启动，不是已经定价完成，也不是已经上市。
+
+发布：上海时间2026-11-10（官方日期行；页面 meta 的午夜时刻更像日期占位，不当作精确发布时间）｜[Anthropic](https://www.anthropic.com/news/roadshow-launch)  
+[单篇档案](2026/11/11/财经/anthropic-ipo-roadshow.md)
+
+---
+
+<a id="hl-tpu"></a>
+
+### 4. Google 推出第八代 TPU 新系统 8tx 与 8i Max
+
+Google 宣布在第八代 TPU 组合中新增两套系统：面向安全与机密推理（也适用于小规模训练）的 TPU 8tx，以及面向超大上下文、追求机柜计算密度的 TPU 8i Max。公司称这是其首次在同一年推出四套 TPU 系统，前两套是今年 4 月 Cloud Next 上的 8t（训练）和 8i（实时推理）。
+
+官方介绍，8tx 与 8t 使用相同硅片，并搭配第 5 代 AMD EPYC 主机，把安全做到硬件层，使敏感数据和模型权重在使用中仍保持保护与隔离；相较 TPU 8t，延迟最高可降低约 2 倍。8i Max 则把两颗低延迟 8i 芯片封装在一起，官方称可提供相对 8i 两倍的计算、SRAM 和 HBM 带宽，并在原有机柜占地内放入更多硅片。稿件还谈到开源 TorchTPU、推理与代理基准，以及 Cloud Pathways、GKE 动态切片等软件，但这些是配套软件进展，不等同于芯片本身的第三方实测。
+
+发布：上海时间2026-11-09 21:00｜[Google](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)  
+[单篇档案](2026/11/11/科技/google-tpu-8tx-8i-max.md)
+
+---
+
+<a id="hl-grok"></a>
+
+### 5. 研究称数万个 Grok Build 分享链接可被枚举，部分应用暴露敏感信息
+
+Ars Technica 报道，安全公司 Claroc 的研究发现，Grok Build 用于分享应用的链接可被枚举。研究者称，检索到 43,601 个以 grok.me 结尾的链接，其中超过 35,000 个（约 95%）是公开的，打开后可以看到应用及其存储的数据。测试还称，默认设置为「任何持有链接的人可访问」，用户需手动改为仅邀请或仅自己可见。
+
+报道称，暴露内容包括企业内部材料和个人敏感信息。Ars 还写道，其中也包括 SpaceXSI 自己搭建的应用，并把 SpaceXSI 称为 SpaceX 与 xAI 合并后的公司；这一说法按 Ars 的转述记录，本稿没有另行核实。Claroc 已在周日通知该公司；在 Ars 发问后，上述应用链接被移除。Ars 称，Cursor / SpaceXSI 回复说应用默认私密、只有创建者选择分享才会公开，但这一说法与研究者的默认设置测试并不一致。文章建议，除非有意公开，否则不要使用「任何持有链接的人可访问」。
+
+为何关注：分享链接的默认权限和 URL 设计，会直接决定用 Grok Build 快速搭出的内部工具会不会在无意中对外暴露。
+
+发布：原文 byline 为 Nov 10, 2026 4:12 pm，页面未标明时区，不把换算钟点写成已确认的首次发布时间｜[Ars Technica](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/)  
+[单篇档案](2026/11/11/AI/ars-grok-build-share-links-exposure.md)
+
+---
+
+## 栏目
+
+[AI](#ai) · [科技](#keji) · [搞笑](#gaoxiao) · [财经](#caijing) · [娱乐](#yule) · [体育](#tiyu) · [社会](#shehui) · [健康](#jiankang) · [其他](#qita)
+
+<a id="ai"></a>
+
+## AI
+
+<a id="hl-chatgpt"></a>
+<a id="cat-openai-chatgpt-businesses-agents"></a>
+
+### OpenAI 推出 ChatGPT 商家主页与美国电商商务代理（测试版）
 
 OpenAI 宣布以测试版推出 ChatGPT 中的「商家」功能。企业可通过 Business Hub 认领并验证组织资料，更新关键信息，并自行提供含价格与库存的商品信息流。
 
@@ -52,11 +117,10 @@ Hub 还会给出聚合后的提及次数、网站点击和常见发现主题；�
 发布：上海时间2026-11-10（官方正文仅标注日期，未给出具体时刻）｜[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)  
 [单篇档案](2026/11/11/AI/openai-chatgpt-businesses-agents.md)
 
----
-
 <a id="hl-cursor"></a>
+<a id="cat-cursor-projects-multiplayer"></a>
 
-### 3. Cursor 让 Projects 支持多人协作，团队可与智能体共享工作区（测试版）
+### Cursor 让 Projects 支持多人协作，团队可与智能体共享工作区（测试版）
 
 Cursor 宣布，今年 9 月推出的 Projects 现在支持多人模式，并开始以测试版向所有用户推送。成员可邀请同事进入同一个 Project，在共享任务板里查看彼此及各自智能体正在做的工作，以及每项任务对应的 Pull Request。
 
@@ -67,72 +131,6 @@ Cursor 宣布，今年 9 月推出的 Projects 现在支持多人模式，并开
 Projects 最初是给单人调度一组智能体做大型任务用的。这次升级的重点是把「一个人指挥一组智能体」变成「一个团队共享上下文、任务板和交接」。官方举例包括值班轮换时，新接手工程师的协调器先核对现状，再从已有任务、未处理问题和相关频道、Linear 看板继续工作；进行中的任务也可以直接交给新人的智能体。
 
 功能已向所有 Cursor 用户以测试版推送。使用方式是在左侧导航创建 Project 并邀请同事。跨成员的智能体自动协调目前主要来自官方描述和举例，实际效果还需团队在真实代码协作中验证。
-
-发布：上海时间2026-11-10（官方仅标注日期，未给出具体时刻）｜[Cursor](https://cursor.com/blog/projects-multiplayer)  
-[单篇档案](2026/11/11/AI/cursor-projects-multiplayer.md)
-
----
-
-<a id="hl-pixel"></a>
-
-### 4. 谷歌发布 11 月 Pixel 功能更新，Pixel Tag 于 11 月 11 日开售
-
-谷歌发布 11 月 Pixel 功能更新，称相关能力即日起开始推送，并将在未来数周内陆续到位。Pixel 10 系列迎来 Gemini Intelligence，包括可去掉语气词并整理文本的 Rambler 语音输入、多步骤任务协助（原文写明现可用于日本、英国和印度），以及主动建议和可自制的主屏幕小组件。
-
-Pixel 11 系列在美国升级 Call Screen，由 Gemini 以更口语化方式询问未知来电原因，并提供实时转写。此外还有新的图标样式、Pixel 6 及更新机型的系统搜索增强，以及部分 Pixel 11 Pro 机型上 HiLight 对 Google Messages 的支持。
-
-定位配件 Pixel Tag 将于 11 月 11 日开售，单只 29.99 美元、四件套 99.99 美元，官方称续航超过一年，并可借助 Find Hub 网络和超宽带近距指引查找。同日还提到 Google Fi 的「超级网络」可在符合条件的 Pixel 上自动切换两家美国 5G 网络和 Wi-Fi。
-
-多项功能有机型、地区和语言限制。
-
-这次是典型的月度 Pixel Drop，把系统功能、Gemini 能力和新配件放在一起发布。对已有 Pixel 10 用户，更直接的变化是语音输入整理、可定制小组件，以及在部分国家让 Gemini 代办点餐、叫车或订位等事务。Call Screen 的对话式升级则只写明面向美国的 Pixel 11 系列，并预告随后到手表。
-
-Pixel Tag 是本次最明确的硬件上新：11 月 11 日开卖，走 Find Hub 网络，而不是立刻在全球所有渠道同步铺开。Google Fi 新网络能力也只适用于符合条件、并以 eSIM 使用 Fi 的机型。原文脚注列出了大量机型与地区限制，因此具体能否用，仍要以设备和支持地区为准。
-
-发布：上海时间2026-11-11 03:00｜[Google](https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/)  
-[单篇档案](2026/11/11/科技/pixel-november-2026-drop.md)
-
----
-
-<a id="hl-sunharbo"></a>
-
-### 5. 美国 FDA 批准首个 FXIa 抑制剂 Sunharbo，用于部分成人卒中后预防
-
-美国食品药品管理局 11 月 9 日宣布，批准 Bayer 的 Sunharbo（通用名 asundexian）50 毫克片剂，这是美国首个获批的凝血因子 XIa（FXIa）抑制剂，须与抗血小板治疗联用，用于近期轻中度非心源性缺血性卒中（NIH 卒中量表≤15）或高危短暂性脑缺血发作（TIA）的成年患者，以降低再次卒中风险。有效性来自 III 期临床试验 OCEANIC-STROKE，共纳入 12327 名成人，须在症状出现后 72 小时内随机分组；中位治疗 14.2 个月，缺血性卒中风险较安慰剂显著降低 26%。
-
-总体大出血发生率与安慰剂相近，但 75 岁以上患者以及治疗最初 90 天内出血风险升高，胃肠道出血也更常见。该药未批准用于心房颤动患者的卒中预防，中重度肝损害患者不推荐使用。
-
-FDA 给予了快速通道和优先审评。
-
-FDA 强调，卒中存活者仍面临再发风险，此次批准为特定类型的非心源性缺血性卒中或高危 TIA 患者提供了一种新的二级预防选择。需要同时记住限制条件：它必须与抗血小板治疗一起使用，不适用于房颤相关卒中预防，也需避开中重度肝损害患者，并注意与某些 P-gp 及强 CYP3A4 诱导剂合用可能降低疗效。试验规模较大，主要终点是缺血性卒中，但出血风险并非在所有亚组中都与安慰剂完全一致，尤其是高龄和用药初期。
-
-发布：上海时间2026-11-09（官方仅标注日期，页面JSON-LD给出17:15但未标明时区，故不换算具体钟点）｜[U.S. Food and Drug Administration](https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk)  
-[单篇档案](2026/11/11/健康/fda-approves-sunharbo-asundexian-secondary-stroke-prevention.md)
-
----
-
-## 栏目
-
-[AI](#ai) · [科技](#keji) · [搞笑](#gaoxiao) · [财经](#caijing) · [娱乐](#yule) · [体育](#tiyu) · [社会](#shehui) · [健康](#jiankang) · [其他](#qita)
-
-<a id="ai"></a>
-
-## AI
-
-<a id="cat-openai-chatgpt-businesses-agents"></a>
-
-### OpenAI 推出 ChatGPT 商家主页与美国电商商务代理（测试版）
-
-已在[今日重点](#hl-chatgpt)展开。ChatGPT 商家主页与美国电商商务代理以测试版推出，代理对话与模型回答分开显示。
-
-发布：上海时间2026-11-10（官方正文仅标注日期，未给出具体时刻）｜[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)  
-[单篇档案](2026/11/11/AI/openai-chatgpt-businesses-agents.md)
-
-<a id="cat-cursor-projects-multiplayer"></a>
-
-### Cursor 让 Projects 支持多人协作，团队可与智能体共享工作区（测试版）
-
-已在[今日重点](#hl-cursor)展开。Projects 多人协作以测试版向所有用户推送，团队可与智能体共享工作区。
 
 发布：上海时间2026-11-10（官方仅标注日期，未给出具体时刻）｜[Cursor](https://cursor.com/blog/projects-multiplayer)  
 [单篇档案](2026/11/11/AI/cursor-projects-multiplayer.md)
@@ -184,17 +182,105 @@ Anthropic 宣布，Claude Whiteboards 和 Claude Sheets 即日起以测试版向
 发布：上海时间2026-11-10（官方仅标注日期，未给出具体时刻）｜[Anthropic](https://claude.com/resources/articles/sheets-whiteboards-data)  
 [单篇档案](2026/11/11/AI/claude-sheets-whiteboards-data.md)
 
+<a id="cat-anthropic-claude-fable-mythos-5-2"></a>
+
+### Anthropic 发布 Claude Fable 5.2，并向受审核机构提供 Mythos 5.2
+
+已在[今日重点](#hl-fable)展开。Fable 5.2 向所有用户开放，Mythos 5.2 需经生命科学或网络验证计划申请；多数工作官方仍建议先用 Claude Opus 5.5。
+
+发布：上海时间2026-11-09（页面仅有日期，时区未知）｜[Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2)  
+[单篇档案](2026/11/11/AI/anthropic-claude-fable-mythos-5-2.md)
+
+<a id="openai-chatgpt-plus-veterans-day-2026"></a>
+
+### OpenAI：过去一年已有逾 2 万名退伍军人领取免费 ChatGPT Plus，并公布节日前后培训安排
+
+OpenAI 在美国退伍军人节前发布介绍稿称，过去一年已有超过 2 万名转业军人与退伍人员领取了公司提供的一年免费 ChatGPT Plus。OpenAI Academy 及合作机构已举办十余场培训，覆盖近 1,000 名军人社区成员，并计划在年底前再举办 7 场。稿件以若干退伍人员使用 ChatGPT 准备面试、整理简历和了解出版流程为例，说明工具在转业准备中的用法。
+
+文中列出了 11 月 12 日至 21 日在圣路易斯、纳什维尔等地及一场 30 分钟线上活动的后续安排，并感谢 ID.me 协助核验领取资格。这是纪念与项目进展说明，不是新的付费产品发布。
+
+发布：上海时间2026-11-11（仅有日期，时区未知）｜[OpenAI](https://openai.com/index/chatgpt-plus-for-veterans)  
+[单篇档案](2026/11/11/AI/openai-chatgpt-plus-veterans-day-2026.md)
+
+<a id="github-copilot-gemini-4-carbon"></a>
+
+### GitHub Copilot 已向部分套餐开放 Gemini 4 Carbon
+
+GitHub 宣布，Google 的 Gemini 4 Carbon 已在 GitHub Copilot 中一般可用，面向 Copilot Pro+、Max、Business 和 Enterprise 用户，适用于复杂编程、代理式任务和推理，并强调安全代码生成相关场景。该模型按提供方目录价计入按量计费。
+
+可在 VS Code、Visual Studio、Copilot CLI、coding agent、GitHub Copilot 应用、github.com、GitHub Mobile、JetBrains、Xcode 和 Eclipse 的模型选择器中选用。官方称将逐步推送。Copilot Enterprise 与 Business 管理员可通过模型策略管理访问；在默认启用新模型的设置下，除非管理员关闭全局默认或单独关闭该模型，否则新模型会自动开启。这是 GitHub 产品侧的接入，有别于早间 Google 宣布 Carbon 可供开发者使用。
+
+发布：上海时间2026-11-11 03:26｜[GitHub Blog](https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/)  
+[单篇档案](2026/11/11/AI/github-copilot-gemini-4-carbon.md)
+
+<a id="github-copilot-claude-fable-5-2"></a>
+
+### GitHub Copilot 上线 Claude Fable 5.2，企业默认需允许数据留存
+
+GitHub 宣布 Anthropic 的 Claude Fable 5.2 已在 Copilot 中一般可用，面向 Pro+、Max、Business 和 Enterprise 用户，用于大型代码库上的复杂多步编程。GitHub 称，早期测试中该模型比 Fable 5.1 完成了更多任务，且步骤和工具调用更少。计费按提供方目录价。
+
+与 Carbon 不同，Copilot Business / Enterprise 管理员必须在设置中单独打开 Claude Fable 5.2 策略，该策略默认关闭。GitHub 写明：Fable 5.2 默认需要数据留存，以便 Anthropic 运行安全分类器；留存数据不会用于训练 Anthropic 模型。符合条件的企业可在年底前按有时限的豁免使用零数据留存，之后需接入 Enterprise Frontier Safeguards。批准不会自动打开模型，管理员仍需手动启用策略。推送同样是逐步进行。
+
+为何关注：企业若要在 Copilot 里使用该模型，需要先理解默认数据留存和策略开关，不能当作普通模型即开即用。
+
+发布：上海时间2026-11-10 00:46｜[GitHub Blog](https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot/)  
+[单篇档案](2026/11/11/AI/github-copilot-claude-fable-5-2.md)
+
+<a id="google-workspace-gemini-gmail-help-me-write"></a>
+
+### Google 将 Gmail「帮我写」和会话摘要扩大到所有 Workspace 用户
+
+Google 宣布，将部分 Gemini in Gmail 功能扩大到所有 18 岁及以上的 Google Workspace 用户。此前这些工具主要面向消费者账号和特定 Workspace 版本。此次开放的功能包括：长邮件线程顶部的 AI Overview 会话摘要，用于归纳要点与回复；以及非个性化的「Help me write」，可根据简单提示生成完整草稿或改写已有文字。
+
+功能默认开启，用户可自行关闭；管理员也可在后台关闭 Gmail 中的 Gemini 功能。Rapid Release 与 Scheduled Release 域名均从 2026 年 11 月 10 日起逐步推送，最长可能需要 15 天才能看到。官方同时写明，个人 Google 账号在开启 Gmail 智能功能的前提下也可使用。
+
+为何关注：这会把此前偏消费者侧的写信和摘要能力，带进更多学校与工作邮箱，但最终能否使用仍取决于管理员和用户开关。
+
+发布：上海时间2026-11-10（官方博客仅有日期，时区未知）｜[Google Workspace Updates](https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html)  
+[单篇档案](2026/11/11/AI/google-workspace-gemini-gmail-help-me-write.md)
+
+<a id="openai-control-room"></a>
+
+### OpenAI 介绍 Control Room：可在 35 秒内停止研究侧模型推理任务
+
+OpenAI 介绍了已在其研究基础设施中部署的 Control Room：一套集中跟踪研究侧模型工作负载、并在出现安全或安保顾虑时迅速停止输出的系统，覆盖训练与评估中的代理式采样、数据处理等推理任务。系统设计为：工作负载向 Control Room 领取 job_id，推理引擎在真正生成 token 前用该 ID 向 Control Room 申请授权；任务被标记停止后，后续推理请求会被拒绝。
+
+官方称，从 Control Room 收到停止指令到无法继续推进，最长间隔为 35 秒，来自授权缓存；公司表示正尝试把这一延迟降到更低。系统在推理层而非研究人员的工作负载代码中实施终止，并采用故障关闭：若 Control Room 自身不可用，推理请求会被拒绝。该故障关闭已覆盖所有前沿模型研究工作负载，其余研究工作负载将在此后数日完成切换。这是内部研究安全机制说明，不是面向 ChatGPT 用户的新功能。
+
+发布：上海时间2026-11-09（仅有日期，时区未知）｜[OpenAI](https://openai.com/index/control-room)  
+[单篇档案](2026/11/11/AI/openai-control-room.md)
+
+<a id="cat-ars-grok-build-share-links-exposure"></a>
+
+### 研究称数万个 Grok Build 分享链接可被枚举，部分应用暴露敏感信息
+
+已在[今日重点](#hl-grok)展开。Ars Technica 报道称，大量分享链接可被枚举，默认权限会让持有链接的人打开应用。
+
+发布：原文 byline 为 Nov 10, 2026 4:12 pm，页面未标明时区，不把换算钟点写成已确认的首次发布时间｜[Ars Technica](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/)  
+[单篇档案](2026/11/11/AI/ars-grok-build-share-links-exposure.md)
+
 ---
 
 <a id="keji"></a>
 
 ## 科技
 
+<a id="hl-pixel"></a>
 <a id="cat-pixel-november-2026-drop"></a>
 
 ### 谷歌发布 11 月 Pixel 功能更新，Pixel Tag 于 11 月 11 日开售
 
-已在[今日重点](#hl-pixel)展开。11 月 Pixel 功能分批推送，Pixel Tag 于 11 月 11 日开售。
+谷歌发布 11 月 Pixel 功能更新，称相关能力即日起开始推送，并将在未来数周内陆续到位。Pixel 10 系列迎来 Gemini Intelligence，包括可去掉语气词并整理文本的 Rambler 语音输入、多步骤任务协助（原文写明现可用于日本、英国和印度），以及主动建议和可自制的主屏幕小组件。
+
+Pixel 11 系列在美国升级 Call Screen，由 Gemini 以更口语化方式询问未知来电原因，并提供实时转写。此外还有新的图标样式、Pixel 6 及更新机型的系统搜索增强，以及部分 Pixel 11 Pro 机型上 HiLight 对 Google Messages 的支持。
+
+定位配件 Pixel Tag 将于 11 月 11 日开售，单只 29.99 美元、四件套 99.99 美元，官方称续航超过一年，并可借助 Find Hub 网络和超宽带近距指引查找。同日还提到 Google Fi 的「超级网络」可在符合条件的 Pixel 上自动切换两家美国 5G 网络和 Wi-Fi。
+
+多项功能有机型、地区和语言限制。
+
+这次是典型的月度 Pixel Drop，把系统功能、Gemini 能力和新配件放在一起发布。对已有 Pixel 10 用户，更直接的变化是语音输入整理、可定制小组件，以及在部分国家让 Gemini 代办点餐、叫车或订位等事务。Call Screen 的对话式升级则只写明面向美国的 Pixel 11 系列，并预告随后到手表。
+
+Pixel Tag 是本次最明确的硬件上新：11 月 11 日开卖，走 Find Hub 网络，而不是立刻在全球所有渠道同步铺开。Google Fi 新网络能力也只适用于符合条件、并以 eSIM 使用 Fi 的机型。原文脚注列出了大量机型与地区限制，因此具体能否用，仍要以设备和支持地区为准。
 
 发布：上海时间2026-11-11 03:00｜[Google](https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/)  
 [单篇档案](2026/11/11/科技/pixel-november-2026-drop.md)
@@ -276,6 +362,48 @@ Meta 工程博客详细介绍了 Triton Low-Level Extensions（TLX），这是�
 发布：上海时间2026-11-11 00:59｜[Meta Engineering](https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/)  
 [单篇档案](2026/11/11/科技/meta-tlx-gpu-compiler.md)
 
+<a id="cat-google-tpu-8tx-8i-max"></a>
+
+### Google 推出第八代 TPU 新系统 8tx 与 8i Max
+
+已在[今日重点](#hl-tpu)展开。第八代 TPU 新增 8tx 与 8i Max，官方称这是同一年里的第四套系统。
+
+发布：上海时间2026-11-09 21:00｜[Google](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)  
+[单篇档案](2026/11/11/科技/google-tpu-8tx-8i-max.md)
+
+<a id="nvidia-openshell-cncf-kubernetes-ai-infrastructure"></a>
+
+### 英伟达向 CNCF 捐赠 OpenShell，并发布面向 Kubernetes 的 AI 基础设施组件
+
+英伟达在 KubeCon 期间宣布，将用于约束和治理自主代理的开源运行时 NVIDIA OpenShell 捐给云原生计算基金会（CNCF），成为 Sandbox 项目。公司还表示参与由 Google 发起、同样进入 CNCF Sandbox 的 Agent Substrate，并为该框架与 NVIDIA Dynamo、KAI Scheduler 的配合提供支持。官方称 OpenShell 可对代理使用工具、调用推理服务和执行任务施加确定性策略，并允许对接现有计算、推理、凭证和监控系统。
+
+与此同时，英伟达为 DSX AI Factory Platform 新增组件：现已公开预览的 NVIDIA Kubernetes Engine（NVKE）和 NVIDIA Kubernetes Recipes（NVKR），以及开源的 NVIDIA Snapshot。官方称 Snapshot 可在数秒内恢复已做检查点的副本，而不必重新加载模型或预热。设计伙伴 Crusoe 在自身云上测试 GLM-5.3 时，称工作负载就绪时间从约 8 分钟降至 31 秒；Saturn Cloud 则称将 vLLM 启动时间从 2 至 8.5 分钟降至 6 秒和 34 秒。上述数字来自英伟达稿件中的伙伴测试陈述。
+
+发布：上海时间2026-11-11 00:00｜[NVIDIA Blog](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/)  
+[单篇档案](2026/11/11/科技/nvidia-openshell-cncf-kubernetes-ai-infrastructure.md)
+
+<a id="microsoft-auto-sr-official-launch"></a>
+
+### 微软 Auto SR 正式版上线，掌机未接底座和 1080p 游戏已可使用
+
+微软宣布，Automatic Super Resolution（Auto SR）已在 ROG Xbox Ally X 和 ROG Xbox Ally X20 上结束预览、正式推出，并扩展到部分搭载 AMD Ryzen 的 Windows Copilot+ PC。预览阶段只能在接底座时使用，且游戏往往需要先降低分辨率；正式版已支持掌机未接底座、依靠电池在内置屏幕上游玩，也可直接用于以 1080p 运行的游戏。接上更高分辨率电视或显示器时，官方称最高可放大到 1440p。
+
+新的 Performance Mode 将帧率上限从此前约 60–75 FPS 提高到最高 120 FPS，并可与 Auto HDR 同时使用；这两项将随 Windows 更新陆续推送，可能不会马上到达所有设备。微软同时提醒：在内置屏幕以 1080p 使用时，性能未必像其他配置那样理想，但仍可能改善画质，尤其是较老的游戏。用户需更新 Game Bar 和 Windows 11，并从 Microsoft Store 安装或更新 Auto Super Resolution 包。
+
+发布：上海时间2026-11-11 02:00｜[Microsoft DirectX Developer Blog](https://devblogs.microsoft.com/directx/autosr-performance-mode/)  
+[单篇档案](2026/11/11/科技/microsoft-auto-sr-official-launch.md)
+
+<a id="starlink-mini-2-swappable-battery"></a>
+
+### SpaceX 推出内置可换电池的 Starlink Mini 2，美国部分用户可受邀预购
+
+The Verge 报道，SpaceX 发布了新一代一体式卫星互联网终端 Starlink Mini 2，在天线和 Wi-Fi 路由之外加入电池，整体仍大致是笔记本电脑大小。报道引述 SpaceX 的说法称，满电最长可使用约 4.5 小时，也可热更换单独售卖的额外电池，或通过 USB-C 连接 60W 电源。尽管加了电池，厚度从初代 Mini 的 38.5 毫米减至 23.1 毫米，重量则因电池升至约 3.5 磅，并沿用 IP67 防尘防水。
+
+报道称，据 Starlink 网站，预购已向部分美国用户发出邀请，并即将面向更多用户和国家开放。关于售价，The Verge 写的是：部分用户在 X 上分享的邀请截图显示为 999 美元，并包含一年 Roam Unlimited 服务（报道称 SpaceX 将该服务价值列为 2,100 美元）。该价格来自用户截图转述，不是从官方页面直接核对到的定价。本稿以已打开的 The Verge 报道为来源。
+
+发布：上海时间2026-11-11 03:19｜[The Verge](https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery)  
+[单篇档案](2026/11/11/科技/starlink-mini-2-swappable-battery.md)
+
 ---
 
 <a id="gaoxiao"></a>
@@ -292,6 +420,28 @@ Meta 工程博客详细介绍了 Triton Low-Level Extensions（TLX），这是�
 
 发布：上海时间2026-11-10 14:12｜[BBC News](https://www.bbc.com/news/articles/c3qjnjd4ernwo)  
 [单篇档案](2026/11/11/搞笑/devon-hectors-house-110-cats-surrender.md)
+
+<a id="bbc-eastleigh-wedding-jack-russell"></a>
+
+### 一只杰克罗素犬闯入英国东利婚礼，新人称场面「挺滑稽」
+
+BBC 报道，西蒙与埃米·基恩（Simon and Amy Keane）在汉普郡东利（Eastleigh）的教堂举行婚礼时，一只路过的杰克罗素犬冲进礼堂，在宾客间跑动，并碰到本来要担任戒童的新人自己的狗 Duggie。新郎当时正紧张等待新娘进场，说这一幕 “kind of hilarious”（有点滑稽）；新娘则在街上看见没拴绳的狗直奔教堂，和伴娘笑成一团。
+
+两人之后联系了狗的主人，并表示对方完全不必道歉。新娘的父亲对 BBC 说，这件事反而成了当天被反复谈论的插曲。婚礼发生在上周六（2026-11-07）下午，BBC 文章刊于 2026-11-11。这是已经发生的地方新闻，不是预告。
+
+发布：文章刊于上海时间2026-11-11 13:59；婚礼发生在2026-11-07下午｜[BBC News](https://www.bbc.com/news/articles/cw23d3xx833eo)  
+[单篇档案](2026/11/11/搞笑/bbc-eastleigh-wedding-jack-russell.md)
+
+<a id="mainichi-chiba-red-panda-futa-guinness-record"></a>
+
+### 日本千葉市宣布：赤熊猫「风太」将在 11 月 17 日获吉尼斯最长寿圈养纪录认证
+
+《每日新闻》英文报道，千葉市政府 11 月 10 日宣布，千葉市动物公园的赤熊猫「风太」（Futa）将被吉尼斯世界纪录认定为目前圈养条件下最长寿的赤熊猫。按安排，认证仪式当天它的年龄为 23 岁零 135 天。此前纪录由美国蒙大拿州 ZooMontana 的 Taylor 保持，为 21 岁零 265 天，于 2020 年 2 月 27 日获认。
+
+风太 2003 年 7 月 5 日出生于静冈市日本平动物园，次年到千葉，曾因直立姿态广为人知。园区称，它最近一次在 10 月 29 日因左后腿拖行暂时停止公开展示，11 月 6 日起已回到展区，食欲与状态良好。认证仪式定于 11 月 17 日下午 1 点在展区前举行，园方将发放 150 个编号观看席。目前是市政府宣布的即将认证，仪式尚未举行。
+
+发布：英文稿日期行为2026-11-11（仅有日期，不补钟点）｜[The Mainichi](https://mainichi.jp/english/articles/20261111/p2a/00m/0et/035000c)  
+[单篇档案](2026/11/11/搞笑/mainichi-chiba-red-panda-futa-guinness-record.md)
 
 ---
 
@@ -356,6 +506,26 @@ Meta 工程博客详细介绍了 Triton Low-Level Extensions（TLX），这是�
 
 发布：上海时间2026-11-10 11:00｜[BBC News](https://www.bbc.com/news/articles/cq398em3032wo)  
 [单篇档案](2026/11/11/财经/california-prop-40-billionaire-wealth-tax-rejected.md)
+
+<a id="cat-anthropic-ipo-roadshow"></a>
+
+### Anthropic 启动拟议 IPO 路演，拟定发行价 70–78 美元、申请交易代码 ANT
+
+已在[今日重点](#hl-ipo)展开。路演已经启动，登记声明尚未生效，公司尚未上市。
+
+发布：上海时间2026-11-10（官方日期行；页面 meta 的午夜时刻更像日期占位，不当作精确发布时间）｜[Anthropic](https://www.anthropic.com/news/roadshow-launch)  
+[单篇档案](2026/11/11/财经/anthropic-ipo-roadshow.md)
+
+<a id="coreweave-q3-2026-results"></a>
+
+### CoreWeave 公布 2026 年第三季度业绩：营收 36.61 亿美元，当季仍为净亏损
+
+CoreWeave 公布截至 2026 年 9 月 30 日的第三季度业绩：营收 36.61 亿美元，上年同期为 13.65 亿美元；GAAP 营业利润 2.07 亿美元；净亏损 7.09 亿美元，基本与摊薄每股亏损均为 1.27 美元。净利息支出为 8.46 亿美元。公司同时给出非公认会计原则口径：调整后 EBITDA 22.56 亿美元，调整后营业利润 3.79 亿美元。截至季度末，收入 backlog 约 1,325 亿美元（含剩余履约义务及公司估计未来可确认的承诺合同金额，须满足交付与服务可用条件）。
+
+公司上调 2026 全年营收指引至 130 亿至 133 亿美元，并上调全年调整后营业利润指引至 12.75 亿至 13.75 亿美元；资本开支指引为 370 亿至 390 亿美元。上述指引是前瞻陈述，不是已实现结果。尽管当季录得营业利润，公司在 GAAP 口径下仍因高额利息等因素处于净亏损。新闻稿另写的财报电话会时间，不是发稿时间。
+
+发布：上海时间2026-11-10 23:05（财报电话会为上海时间2026-11-11 06:00，不是发稿时间）｜[CoreWeave](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)  
+[单篇档案](2026/11/11/财经/coreweave-q3-2026-results.md)
 
 ---
 
@@ -437,11 +607,18 @@ WTA 官网报道，周二在印第安维尔斯举行的年终总决赛第一小�
 
 ## 健康
 
+<a id="hl-sunharbo"></a>
 <a id="cat-fda-approves-sunharbo-asundexian-secondary-stroke-prevention"></a>
 
 ### 美国 FDA 批准首个 FXIa 抑制剂 Sunharbo，用于部分成人卒中后预防
 
-已在[今日重点](#hl-sunharbo)展开。FDA 已批准 Sunharbo，适应证限于部分成人的卒中后预防，须与抗血小板治疗联用。
+美国食品药品管理局 11 月 9 日宣布，批准 Bayer 的 Sunharbo（通用名 asundexian）50 毫克片剂，这是美国首个获批的凝血因子 XIa（FXIa）抑制剂，须与抗血小板治疗联用，用于近期轻中度非心源性缺血性卒中（NIH 卒中量表≤15）或高危短暂性脑缺血发作（TIA）的成年患者，以降低再次卒中风险。有效性来自 III 期临床试验 OCEANIC-STROKE，共纳入 12327 名成人，须在症状出现后 72 小时内随机分组；中位治疗 14.2 个月，缺血性卒中风险较安慰剂显著降低 26%。
+
+总体大出血发生率与安慰剂相近，但 75 岁以上患者以及治疗最初 90 天内出血风险升高，胃肠道出血也更常见。该药未批准用于心房颤动患者的卒中预防，中重度肝损害患者不推荐使用。
+
+FDA 给予了快速通道和优先审评。
+
+FDA 强调，卒中存活者仍面临再发风险，此次批准为特定类型的非心源性缺血性卒中或高危 TIA 患者提供了一种新的二级预防选择。需要同时记住限制条件：它必须与抗血小板治疗一起使用，不适用于房颤相关卒中预防，也需避开中重度肝损害患者，并注意与某些 P-gp 及强 CYP3A4 诱导剂合用可能降低疗效。试验规模较大，主要终点是缺血性卒中，但出血风险并非在所有亚组中都与安慰剂完全一致，尤其是高龄和用药初期。
 
 发布：上海时间2026-11-09（官方仅标注日期，页面JSON-LD给出17:15但未标明时区，故不换算具体钟点）｜[U.S. Food and Drug Administration](https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk)  
 [单篇档案](2026/11/11/健康/fda-approves-sunharbo-asundexian-secondary-stroke-prevention.md)
@@ -503,9 +680,9 @@ WTA 官网报道，周二在印第安维尔斯举行的年终总决赛第一小�
 
 首页按独立事件计数。重点区和栏目里出现两次的，仍然是一条。
 
-来源给出钟点时，这里只写上海时间；原时区与时间依据写在单篇档案里。只有日期、没有钟点的，不补时分。
+来源给出钟点时，这里只写上海时间；原时区与时间依据写在单篇档案里。只有日期、没有钟点的，不补时分。页面未标明时区的钟点，不换算成已确认的上海时间。
 
-本期 18 个来源的计法：BBC News 各条计为一家；美国 FDA 两条计为一家；谷歌官方博客与 DeepMind 博客计为一家「谷歌」。
+本期 25 个来源的计法：BBC News 各条计为一家；美国 FDA 两条计为一家；谷歌官方博客、DeepMind 博客与 Google Workspace Updates 计为一家「谷歌」。晚间新计入 GitHub Blog、Ars Technica、NVIDIA Blog、Microsoft DirectX Developer Blog、The Verge、CoreWeave 和 The Mainichi。
 
 厂商基准和内部测试成绩写成公司陈述，不是独立复核结论。健康条目保留研究或审批阶段和原文里的限制。
 
@@ -513,4 +690,4 @@ WTA 官网报道，周二在印第安维尔斯举行的年终总决赛第一小�
 
 仅展示审核通过内容。
 
-本页是 GitHub 上的 Markdown，不是独立网站。更新时间：上海时间 2026-11-11 10:06。
+本页是 GitHub 上的 Markdown，不是独立网站。更新时间：上海时间 2026-11-11 18:35。

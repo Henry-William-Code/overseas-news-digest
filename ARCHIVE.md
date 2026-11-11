@@ -12,10 +12,10 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 ## 2026-11-11
 
-- 独立新闻：24 条
-- 来源：18 个（BBC News 各条计为一家；美国 FDA 两条计为一家；谷歌官方博客与 DeepMind 博客计为一家「谷歌」）
-- AI：5 条
-- 更新时间：上海时间 2026-11-11 10:06
+- 独立新闻：39 条
+- 来源：25 个（BBC News 各条计为一家；美国 FDA 两条计为一家；谷歌官方博客、DeepMind 博客与 Google Workspace Updates 计为一家「谷歌」。晚间新计入 GitHub Blog、Ars Technica、NVIDIA Blog、Microsoft DirectX Developer Blog、The Verge、CoreWeave 和 The Mainichi）
+- AI：12 条
+- 更新时间：上海时间 2026-11-11 18:35
 - [首页](README.md)
 - [当日日报](2026/11/11/日报.md)
 
@@ -28,6 +28,13 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 - [谷歌向开发者与 Ultra 用户开放 Gemini 4 Carbon，并预览 Antigravity 的 swarm 功能](2026/11/11/AI/gemini-4-carbon-availability.md) · 24小时内
 - [DeepMind 发布 Gemini Robotics 2.5，奔驰工厂零件分拣试点成功率约 96%](2026/11/11/AI/gemini-robotics-2-5.md) · 24小时内
 - [Anthropic 上线 Claude 白板、表格与数据工具，会议功能仍为即将推出](2026/11/11/AI/claude-sheets-whiteboards-data.md) · 24小时内
+- [Anthropic 发布 Claude Fable 5.2，并向受审核机构提供 Mythos 5.2](2026/11/11/AI/anthropic-claude-fable-mythos-5-2.md) · 48小时内
+- [OpenAI：过去一年已有逾 2 万名退伍军人领取免费 ChatGPT Plus，并公布节日前后培训安排](2026/11/11/AI/openai-chatgpt-plus-veterans-day-2026.md) · 24小时内
+- [GitHub Copilot 已向部分套餐开放 Gemini 4 Carbon](2026/11/11/AI/github-copilot-gemini-4-carbon.md) · 24小时内
+- [GitHub Copilot 上线 Claude Fable 5.2，企业默认需允许数据留存](2026/11/11/AI/github-copilot-claude-fable-5-2.md) · 48小时内
+- [Google 将 Gmail「帮我写」和会话摘要扩大到所有 Workspace 用户](2026/11/11/AI/google-workspace-gemini-gmail-help-me-write.md) · 页面仅有日期
+- [OpenAI 介绍 Control Room：可在 35 秒内停止研究侧模型推理任务](2026/11/11/AI/openai-control-room.md) · 48小时内
+- [研究称数万个 Grok Build 分享链接可被枚举，部分应用暴露敏感信息](2026/11/11/AI/ars-grok-build-share-links-exposure.md) · byline 未标时区
 
 #### 科技
 
@@ -37,10 +44,16 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 - [AMD 宣布基于 Zen 6 的第六代 EPYC 服务器处理器已开始出货](2026/11/11/科技/amd-6th-gen-epyc-zen6-ga.md) · 24小时内
 - [Apple TV 将于 11 月 13 日上线手语传译功能](2026/11/11/科技/apple-tv-sign-language.md) · 24小时内
 - [Meta 介绍生产级 GPU 编译扩展 TLX，用于推荐模型与大模型预训练](2026/11/11/科技/meta-tlx-gpu-compiler.md) · 24小时内
+- [Google 推出第八代 TPU 新系统 8tx 与 8i Max](2026/11/11/科技/google-tpu-8tx-8i-max.md) · 48小时内
+- [英伟达向 CNCF 捐赠 OpenShell，并发布面向 Kubernetes 的 AI 基础设施组件](2026/11/11/科技/nvidia-openshell-cncf-kubernetes-ai-infrastructure.md) · 24小时内
+- [微软 Auto SR 正式版上线，掌机未接底座和 1080p 游戏已可使用](2026/11/11/科技/microsoft-auto-sr-official-launch.md) · 24小时内
+- [SpaceX 推出内置可换电池的 Starlink Mini 2，美国部分用户可受邀预购](2026/11/11/科技/starlink-mini-2-swappable-battery.md) · 24小时内
 
 #### 搞笑
 
 - [英国德文郡一家救助中心一次性接收 110 只猫](2026/11/11/搞笑/devon-hectors-house-110-cats-surrender.md) · 24小时内
+- [一只杰克罗素犬闯入英国东利婚礼，新人称场面「挺滑稽」](2026/11/11/搞笑/bbc-eastleigh-wedding-jack-russell.md) · 24小时内
+- [日本千葉市宣布：赤熊猫「风太」将在 11 月 17 日获吉尼斯最长寿圈养纪录认证](2026/11/11/搞笑/mainichi-chiba-red-panda-futa-guinness-record.md) · 页面仅有日期
 
 #### 财经
 
@@ -48,6 +61,8 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 - [中国前 10 个月贸易顺差升至 1.04 万亿美元](2026/11/11/财经/china-jan-oct-2026-trade-surplus-1-trillion.md) · 24小时内
 - [澳航将外包约 850 个本地岗位，多数工作转往印度](2026/11/11/财经/qantas-850-jobs-accenture-india-outsourcing.md) · 24小时内
 - [加州选民否决针对亿万富豪的一次性财富税提案](2026/11/11/财经/california-prop-40-billionaire-wealth-tax-rejected.md) · 24小时内
+- [Anthropic 启动拟议 IPO 路演，拟定发行价 70–78 美元、申请交易代码 ANT](2026/11/11/财经/anthropic-ipo-roadshow.md) · 页面仅有日期
+- [CoreWeave 公布 2026 年第三季度业绩：营收 36.61 亿美元，当季仍为净亏损](2026/11/11/财经/coreweave-q3-2026-results.md) · 24小时内
 
 #### 娱乐
 
