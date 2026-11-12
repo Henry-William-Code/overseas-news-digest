@@ -12,10 +12,10 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 ## 2026-11-12
 
-- 独立新闻：19 条
-- 来源：9 个（谷歌官方博客与 DeepMind 博客计为一家「谷歌」；OpenAI 两条计为一家；GitHub Blog 的安全公告与 Changelog 计为一家；BBC News 两条计为一家；The Guardian 三条计为一家。新计入 Microsoft Visual Studio Blog、WTA、NBA.com 和 ABC News）
-- AI：8 条
-- 更新时间：上海时间 2026-11-12 10:01
+- 独立新闻：43 条
+- 来源：15 个（谷歌官方博客、DeepMind 博客与 Google Developers Blog 计为一家「谷歌」；OpenAI 早间两条与晚间帮助中心稿计为一家；GitHub Blog 的安全公告与 Changelog 计为一家；BBC News 与 BBC Sport 计为一家；The Guardian 各条计为一家；微软 Visual Studio Blog 与 Foundry 博客计为一家「微软」。WTA、NBA.com、ABC News 延续早间已计入。晚间新计入 Anthropic、Databricks、Amazon Web Services（两条计为一家）、The Verge（两条计为一家）、IBM Newsroom、NPR）
+- AI：17 条
+- 更新时间：上海时间 2026-11-12 18:34
 - [首页](README.md)
 - [当日日报](2026/11/12/日报.md)
 
@@ -31,35 +31,62 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 - [谷歌与 Artificial Analysis 发布多模态知识工作基准 MKA，含 200 项非公开任务](2026/11/12/AI/multimodal-knowledge-agent-benchmark.md) · 48小时内
 - [OpenAI 与护理组织在美国五城举办面向照护者的免费 ChatGPT 工作坊](2026/11/12/AI/openai-caregivers-ai-skills-jam.md) · 48小时内（页面仅有日期）
 - [Visual Studio 正式提供「自带模型」，可不登录 GitHub 使用自有或本地接口](2026/11/12/AI/visual-studio-byom-generally-available.md) · 24小时内
+- [Google 把 Gemini Live 带到 Apple CarPlay，可在车机上免提对话](2026/11/12/AI/gemini-on-apple-carplay.md) · 24小时内
+- [Google 发布 A2UI 1.0：智能体可用开放协议生成原生交互界面](2026/11/12/AI/google-a2ui-1-0.md) · 官方仅标注日期 2026-11-11
+- [Anthropic 研究：多人各自把任务交给自己的代理，群体结果往往更差](2026/11/12/AI/anthropic-mamubench-worse-together.md) · 官方仅标注日期 2026-11-11
+- [Databricks 发布第二代 Genie：现有助手已开放，全天候代理仍待预览](2026/11/12/AI/databricks-always-on-genie.md) · 官方仅标注日期 2026-11-11
+- [OpenAI 将于 12 月 11 日停用 ChatGPT 的 Advanced 和 Standard 语音](2026/11/12/AI/openai-retiring-advanced-standard-voice.md) · 帮助中心未给出可核验的首次发布时间
+- [Azure Content Understanding 新增 GPT-5.6、GPT-6 和 GPT-6.1 可选模型](2026/11/12/AI/azure-content-understanding-gpt-6-models.md) · 24小时内
+- [Google AI Edge Gallery 上线端侧语音识别和语音合成，可完全离线使用](2026/11/12/AI/google-ai-edge-gallery-on-device-speech.md) · 48小时内（官方仅标注日期）
+- [Moonshot AI 的 Kimi K3.1 Pro Highspeed 已在 Amazon Bedrock 上线](2026/11/12/AI/kimi-k3-1-pro-amazon-bedrock.md) · 48小时内
+- [Amazon Bedrock AgentCore 的网页搜索 API 已一般可用](2026/11/12/AI/aws-bedrock-agentcore-web-search-api.md) · 48小时内（官方仅标注日期；页面另有 00:00:00Z 占位时刻，不采用）
 
 #### 科技
 
 - [Git 项目发布 2.56.1 等修复版本，修补六个安全漏洞](2026/11/12/科技/git-security-vulnerabilities-2-56-1.md) · 48小时内
 - [谷歌与 Adobe 扩大合作：将把 Acrobat 等工具更深接入 Drive、Gmail 和 Gemini](2026/11/12/科技/google-adobe-partnership-integrations.md) · 48小时内
 - [GitHub 向个人账号仓库开放议题类型与自定义字段](2026/11/12/科技/github-issue-types-fields-personal-accounts.md) · 24小时内
+- [有28年历史的苹果官方用户论坛将于11月20日关闭，现已改为只读](2026/11/12/科技/apple-support-community-closing.md) · 24小时内
+- [欧盟公布《数字公平法》草案，拟限制游戏战利品箱、成瘾设计和未标明的网红营销](2026/11/12/科技/eu-digital-fairness-act-proposal.md) · 24小时内
+- [IBM 公布下一代量子芯片规划：2027 年拟把两枚处理器连成超 1000 量子比特系统](2026/11/12/科技/ibm-nighthawk-r3-1040-qubit-plan.md) · 官方仅标注日期 2026-11-11
 
 #### 财经
 
 - [英国宣布 120 亿英镑融资，用于在诺福克近海建设两座风电场](2026/11/12/财经/rwe-kkr-norfolk-vanguard-offshore-wind.md) · 24小时内
+- [英国第三季度经济增速达逾两年来最快，服务业和计算机编程是主要推手](2026/11/12/财经/uk-q3-gdp-fastest-in-over-two-years.md) · 24小时内
+- [英国水务监管机构将收紧奖金禁令，指部分公司用留任金等方式绕开规则](2026/11/12/财经/ofwat-tightens-water-bonus-ban.md) · 24小时内
+
+#### 娱乐
+
+- [杜阿·利帕将成科切拉首个英国女头牌，与 Tame Impala、SZA 分日压轴](2026/11/12/娱乐/dua-lipa-first-british-woman-coachella-headliner.md) · 24小时内
+- [美国演员厄玛·P·霍尔去世，享年91岁，曾出演《灵魂食物》与《女杀手数人》](2026/11/12/娱乐/irma-p-hall-dies-aged-91.md) · 24小时内（文中写明她于 2026-11-10 去世，与发稿时间不同）
 
 #### 体育
 
 - [年终总决赛：安德烈耶娃 6-4、6-0 击败萨巴伦卡，首次晋级半决赛](2026/11/12/体育/wta-finals-andreeva-sabalenka-semifinal.md) · 24小时内
 - [NBA：凯尔特人 123-101 击败 76 人，升至东部第一；开拓者击败雷霆](2026/11/12/体育/nba-nov10-celtics-blazers-knicks.md) · 24小时内
+- [斯维托丽娜逆转穆霍娃，年终总决赛小组赛战至1胜1负](2026/11/12/体育/svitolina-beats-muchova-wta-finals.md) · 24小时内
+- [44岁的英格兰名将安德森离开兰开夏，签约萨里征战2027赛季](2026/11/12/体育/james-anderson-signs-for-surrey.md) · 24小时内
+- [新西兰组合庞加与瓦卡分获2026年橄榄球联盟黄金靴奖男女奖项](2026/11/12/体育/ponga-waaka-golden-boot-2026.md) · 24小时内
 
 #### 社会
 
 - [英格兰高等教育监管机构警告：不少大学作业可在几分钟内用 AI 完成](2026/11/12/社会/ofs-university-ai-assessment-credibility.md) · 48小时内
 - [英格兰顾问医生取消原定 11 月 25 日至 26 日的两日罢工，以便与政府正式谈判](2026/11/12/社会/england-consultants-call-off-november-strike.md) · 24小时内
+- [英格兰河流中两种主要“永久化学物”十年间浓度下降近三成](2026/11/12/社会/england-rivers-pfos-pfoa-drop.md) · 24小时内
+- [为规避抗生素贸易风险，塔斯马尼亚部分海域将暂停商业龙虾捕捞三个月](2026/11/12/社会/tasmania-rock-lobster-fishery-closure.md) · 24小时内
 
 #### 健康
 
 - [研究称结合腰围和器官功能判断肥胖，或减少仅靠 BMI 造成的误判](2026/11/12/健康/nature-clinical-preclinical-obesity-definition.md) · 24小时内
 - [研究称血液中的一种 RNA 信号或有助于发现卵巢癌前病变，仍属早期研究](2026/11/12/健康/nature-medicine-tu-stroma-ovarian-precancer.md) · 24小时内
+- [英国广告监管机构向日光浴床行业发出执行通知，禁止淡化致癌风险](2026/11/12/健康/uk-sunbed-advertising-enforcement-notice.md) · 24小时内
 
 #### 其他
 
 - [澳大利亚研究团队试验可在野外快速检测袋獾面部肿瘤病的口腔拭子](2026/11/12/其他/tasmania-dft-field-swab-test.md) · 24小时内
+- [曾创跨大西洋纪录的邮轮“美国号”在佛罗里达近海沉放，拟成世界最大人工鱼礁](2026/11/12/其他/ss-united-states-sunk-as-artificial-reef.md) · 24小时内
+- [南澳大利亚偏远原住民社区开设自有观星台，用于讲述星空中的传统故事](2026/11/12/其他/koonibba-indigenous-observatory-opens.md) · 24小时内
 
 ## 2026-11-11
 
