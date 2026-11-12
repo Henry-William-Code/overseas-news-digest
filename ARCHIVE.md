@@ -10,6 +10,57 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 2026-11-09 这一期没有新的已审核 AI 稿。自 2026-11-10 起，通过审核的 AI 产品与工具稿放在 AI 栏。
 
+## 2026-11-12
+
+- 独立新闻：19 条
+- 来源：9 个（谷歌官方博客与 DeepMind 博客计为一家「谷歌」；OpenAI 两条计为一家；GitHub Blog 的安全公告与 Changelog 计为一家；BBC News 两条计为一家；The Guardian 三条计为一家。新计入 Microsoft Visual Studio Blog、WTA、NBA.com 和 ABC News）
+- AI：8 条
+- 更新时间：上海时间 2026-11-12 10:01
+- [首页](README.md)
+- [当日日报](2026/11/12/日报.md)
+
+### 单篇
+
+#### AI
+
+- [谷歌推出 Gemini Decisions API，一次可评估最多 1000 个封闭式问题](2026/11/12/AI/gemini-decisions-api.md) · 24小时内
+- [DeepMind 发布 AlphaGenome 2，用于预测基因变异在特定细胞类型中的影响](2026/11/12/AI/alphagenome-2.md) · 24小时内
+- [DeepMind 介绍 AlphaProof Code：用形式化方法验证 Signal 协议核心代码的关键安全属性](2026/11/12/AI/alphaproof-code-signal-verification.md) · 48小时内（页面仅有日期）
+- [OpenAI 与 Upwork 研究：AI 相关兼职项目预算更高、任务组合也更杂](2026/11/12/AI/openai-upwork-freelance-work.md) · 48小时内（页面仅有日期）
+- [谷歌 Labs 推出 Tabletop：可生成行程、投票和分账工具的协作空间，美国 18 岁以上需排队](2026/11/12/AI/google-labs-tabletop.md) · 24小时内
+- [谷歌与 Artificial Analysis 发布多模态知识工作基准 MKA，含 200 项非公开任务](2026/11/12/AI/multimodal-knowledge-agent-benchmark.md) · 48小时内
+- [OpenAI 与护理组织在美国五城举办面向照护者的免费 ChatGPT 工作坊](2026/11/12/AI/openai-caregivers-ai-skills-jam.md) · 48小时内（页面仅有日期）
+- [Visual Studio 正式提供「自带模型」，可不登录 GitHub 使用自有或本地接口](2026/11/12/AI/visual-studio-byom-generally-available.md) · 24小时内
+
+#### 科技
+
+- [Git 项目发布 2.56.1 等修复版本，修补六个安全漏洞](2026/11/12/科技/git-security-vulnerabilities-2-56-1.md) · 48小时内
+- [谷歌与 Adobe 扩大合作：将把 Acrobat 等工具更深接入 Drive、Gmail 和 Gemini](2026/11/12/科技/google-adobe-partnership-integrations.md) · 48小时内
+- [GitHub 向个人账号仓库开放议题类型与自定义字段](2026/11/12/科技/github-issue-types-fields-personal-accounts.md) · 24小时内
+
+#### 财经
+
+- [英国宣布 120 亿英镑融资，用于在诺福克近海建设两座风电场](2026/11/12/财经/rwe-kkr-norfolk-vanguard-offshore-wind.md) · 24小时内
+
+#### 体育
+
+- [年终总决赛：安德烈耶娃 6-4、6-0 击败萨巴伦卡，首次晋级半决赛](2026/11/12/体育/wta-finals-andreeva-sabalenka-semifinal.md) · 24小时内
+- [NBA：凯尔特人 123-101 击败 76 人，升至东部第一；开拓者击败雷霆](2026/11/12/体育/nba-nov10-celtics-blazers-knicks.md) · 24小时内
+
+#### 社会
+
+- [英格兰高等教育监管机构警告：不少大学作业可在几分钟内用 AI 完成](2026/11/12/社会/ofs-university-ai-assessment-credibility.md) · 48小时内
+- [英格兰顾问医生取消原定 11 月 25 日至 26 日的两日罢工，以便与政府正式谈判](2026/11/12/社会/england-consultants-call-off-november-strike.md) · 24小时内
+
+#### 健康
+
+- [研究称结合腰围和器官功能判断肥胖，或减少仅靠 BMI 造成的误判](2026/11/12/健康/nature-clinical-preclinical-obesity-definition.md) · 24小时内
+- [研究称血液中的一种 RNA 信号或有助于发现卵巢癌前病变，仍属早期研究](2026/11/12/健康/nature-medicine-tu-stroma-ovarian-precancer.md) · 24小时内
+
+#### 其他
+
+- [澳大利亚研究团队试验可在野外快速检测袋獾面部肿瘤病的口腔拭子](2026/11/12/其他/tasmania-dft-field-swab-test.md) · 24小时内
+
 ## 2026-11-11
 
 - 独立新闻：39 条
