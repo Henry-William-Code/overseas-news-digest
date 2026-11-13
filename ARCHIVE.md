@@ -10,6 +10,63 @@ AI 栏看热门产品与工具，尤其是 ChatGPT、Codex、Claude Code（CC）
 
 2026-11-09 这一期没有新的已审核 AI 稿。自 2026-11-10 起，通过审核的 AI 产品与工具稿放在 AI 栏。
 
+## 2026-11-13
+
+- 独立新闻：22 条
+- 来源：14 个（谷歌官方博客的 Gemini 4 Hydrogen 与 Google Developers Blog 的 Agent Anomaly Detection 计为一家「谷歌」；Amazon Web Services 的 AgentCore 下一代运行时与 SGLang-Neuron 两条计为一家；BBC News 与 BBC Sport 计为一家；The Register、Anthropic（Claude Code GitHub Releases）、Databricks、The Verge、IBM（Hugging Face 上的 Granite/LLMON 博文）、Salesforce（Hugging Face 上的 SOV-Transcribe-1 博文）、The Guardian、美国全国房地产经纪人协会（NAR）、WTA、NBA.com、美国癌症协会（ACS）各计一家）
+- AI：10 条
+- 更新时间：上海时间 2026-11-13 10:03
+- [首页](README.md)
+- [当日日报](2026/11/13/日报.md)
+
+### 单篇
+
+#### AI
+
+- [Google 发布 Gemini 4 Hydrogen，面向日常编程与智能体工作流](2026/11/13/AI/google-gemini-4-hydrogen.md) · 24小时内
+- [OpenAI 推出 Daybreak Red Team 与 Defense Factory 两款安全产品](2026/11/13/AI/openai-daybreak-red-team-defense-factory.md) · 24小时内（官方产品页无发布日期，以 The Register 见报时间为准）
+- [Claude Code 2.1.323 增加实验性 Code Mode，可用 JavaScript 调用工具](2026/11/13/AI/claude-code-2-1-323-code-mode.md) · 24小时内
+- [Databricks 宣布 Slack 中的 Genie 应用正式商用](2026/11/13/AI/databricks-genie-in-slack-ga.md) · 24小时内
+- [Amazon Bedrock AgentCore 下一代运行时成为新建运行时的默认选项](2026/11/13/AI/aws-agentcore-runtime-next-gen.md) · 24小时内
+- [AWS 与 RadixArk 推出 SGLang-Neuron，可在 Trainium 上按 SGLang 接口提供模型服务](2026/11/13/AI/aws-sglang-neuron-trainium.md) · 24小时内
+- [Google 公布 Agent Anomaly Detection 在外部安全基准上的测试结果](2026/11/13/AI/google-agent-anomaly-detection-benchmarks.md) · 仅有日期 2026-11-12（钟点未核验，不记为已证实的 24 小时时刻）
+- [测试称 Gemini、ChatGPT、Perplexity 购物回答会链到风险网站](2026/11/13/AI/verge-chatbots-risky-shopping-sites.md) · 24小时内
+- [IBM 发布实验性 LLMON 标记语言及 Granite 4.1 预览模型](2026/11/13/AI/ibm-granite-llmon-preview.md) · 24小时内
+- [Salesforce 开源发布 SOV-Transcribe-1 语音转写模型](2026/11/13/AI/salesforce-sov-transcribe-1.md) · 24小时内
+
+#### 科技
+
+- [微软365全球故障，Outlook与Teams等服务持续受阻](2026/11/13/科技/microsoft-365-outlook-teams-outage.md) · 24小时内
+
+#### 财经
+
+- [Poundland获高院延长债权人保护两周，以求达成救援交易](2026/11/13/财经/poundland-creditor-protection-extended.md) · 24小时内
+- [Burberry半年扭亏为盈，中国与美洲销售带动增长](2026/11/13/财经/burberry-returns-to-profit-h1-2026.md) · 24小时内
+- [美国10月成屋销售降至2010年8月以来最低](2026/11/13/财经/us-existing-home-sales-october-2026.md) · 24小时内
+
+#### 娱乐
+
+- [杜兰杜兰鼓手罗杰·泰勒因耳鸣加重宣布离队](2026/11/13/娱乐/duran-duran-roger-taylor-leaves-tinnitus.md) · 24小时内
+- [《生化危机：安魂曲》获金摇杆奖最佳游戏等多项大奖](2026/11/13/娱乐/golden-joystick-awards-2026-resident-evil-requiem.md) · 24小时内（颁奖在周三 11 月 11 日，见报为周四）
+
+#### 体育
+
+- [高芙击败科斯秋克仍出局，佩古拉与诺斯科娃晋级WTA总决赛四强](2026/11/13/体育/wta-finals-gauff-pegula-noskova-semifinals.md) · 24小时内
+- [NBA综述：马刺十连胜，骑士客场击败尼克斯](2026/11/13/体育/nba-starting-5-november-12-2026.md) · 24小时内（只记周三已结束赛果）
+- [意大利3-1逆转法国，齐达内首尝国家队败绩](2026/11/13/体育/italy-3-1-france-nations-league.md) · 24小时内（已完赛；周日末轮为后续赛程）
+
+#### 社会
+
+- [研究认为苏格兰曾竖立镀金罗马皇帝骑马巨像](2026/11/13/社会/roman-emperor-statue-scottish-borders.md) · 24小时内（1820 年出土、本次研究与 11 月 14 日展览分开）
+
+#### 健康
+
+- [美国癌症协会更新前列腺癌筛查指南，建议平均风险男性定期做PSA检测](2026/11/13/健康/acs-prostate-cancer-screening-guideline-2026.md) · 24小时内（可见文本仅有日期）
+
+#### 其他
+
+- [喜马拉雅东部发现五种微型角蛙新种](2026/11/13/其他/himalayan-miniature-horned-frog-species.md) · 24小时内（论文 11 月 11 日发表，BBC 11 月 12 日见报）
+
 ## 2026-11-12
 
 - 独立新闻：43 条
